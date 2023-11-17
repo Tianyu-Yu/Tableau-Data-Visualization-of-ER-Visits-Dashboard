@@ -1,4 +1,6 @@
 # Tableau-Data-Visualization-of-ER-Visits-Dashboard
+<img width="1414" alt="Screenshot 2023-11-16 at 23 45 09" src="https://github.com/Tianyu-Yu/Tableau-Data-Visualization-of-ER-Visits-Dashboard/assets/56368023/de2f62ca-9838-41d3-957b-5376a781fe2f">
+
 
 🗒️ Overview
 This project provides a detailed visualization of Emergency Room (ER) visits data captured over a period from April 2019 to October 2020. The dashboard offers insights into patient demographics, average waiting times, patient satisfaction, and departmental referrals in a healthcare setting.
